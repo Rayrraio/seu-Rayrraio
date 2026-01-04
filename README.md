@@ -28,7 +28,7 @@ Este perfil documenta meus estudos, projetos e evolução prática.
 ## 📚 Em aprendizado contínuo
 
 - Lógica de Programação  
-- Fundamentos de Desenvolvimento  
+- Fundamentos de Desenvolvimento
 - Git e GitHub  
 - Curso em Vídeo – Gustavo Guanabara
 
@@ -36,5 +36,5 @@ Este perfil documenta meus estudos, projetos e evolução prática.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayanes2rocha/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rayrraio@gmail.com)
