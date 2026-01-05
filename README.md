@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora em formação  
 🔄 Transição de carreira para tecnologia  
-📚 Estudante – Curso em Vídeo (Gustavo Guanabara)
+📚 Estudante – 
 
 ---
 
